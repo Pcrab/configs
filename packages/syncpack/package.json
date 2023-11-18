@@ -1,0 +1,26 @@
+{
+    "name": "@pcrab/configs-syncpack",
+    "version": "0.1.0",
+    "publishConfig": {
+        "access": "public"
+    },
+    "keywords": [
+        "configs",
+        "syncpack"
+    ],
+    "description": "Shared syncpack config",
+    "author": {
+        "email": "pcrab@pcrab.xyz",
+        "name": "Pcrab",
+        "url": "https://github.com/Pcrab"
+    },
+    "license": "MIT",
+    "repository": {
+        "url": "https://github.com/Pcrab/configs",
+        "type": "git",
+        "directory": "packages/syncpack"
+    },
+    "homepage": "https://github.com/Pcrab/configs/packages/syncpack#readme",
+    "bugs": "https://github.com/Pcrab/configs/issues",
+    "main": "index.js"
+}

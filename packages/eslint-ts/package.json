@@ -1,0 +1,40 @@
+{
+    "name": "@pcrab/configs-eslint-ts",
+    "version": "0.1.0",
+    "publishConfig": {
+        "access": "public"
+    },
+    "keywords": [
+        "configs",
+        "eslint",
+        "typescript"
+    ],
+    "description": "Shared eslint typescript config",
+    "author": {
+        "email": "pcrab@pcrab.xyz",
+        "name": "Pcrab",
+        "url": "https://github.com/Pcrab"
+    },
+    "license": "MIT",
+    "repository": {
+        "url": "https://github.com/Pcrab/configs",
+        "type": "git",
+        "directory": "packages/eslint-ts"
+    },
+    "homepage": "https://github.com/Pcrab/configs/packages/eslint-ts#readme",
+    "bugs": "https://github.com/Pcrab/configs/issues",
+    "main": "index.js",
+    "dependencies": {
+        "@typescript-eslint/eslint-plugin": "^6.11.0",
+        "@typescript-eslint/parser": "^6.11.0",
+        "eslint-config-prettier": "^9.0.0",
+        "eslint-plugin-prettier": "^5.0.1"
+    },
+    "devDependencies": {
+        "@types/eslint": "^8.44.7",
+        "eslint": "^8.54.0"
+    },
+    "peerDependencies": {
+        "eslint": "^8.54.0"
+    }
+}

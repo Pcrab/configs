@@ -1,0 +1,32 @@
+{
+    "name": "@pcrab/configs-prettier",
+    "version": "0.1.0",
+    "publishConfig": {
+        "access": "public"
+    },
+    "keywords": [
+        "configs",
+        "prettier"
+    ],
+    "description": "Shared prettier config",
+    "author": {
+        "email": "pcrab@pcrab.xyz",
+        "name": "Pcrab",
+        "url": "https://github.com/Pcrab"
+    },
+    "license": "MIT",
+    "repository": {
+        "url": "https://github.com/Pcrab/configs",
+        "type": "git",
+        "directory": "packages/prettier"
+    },
+    "homepage": "https://github.com/Pcrab/configs/packages/prettier#readme",
+    "bugs": "https://github.com/Pcrab/configs/issues",
+    "main": "index.js",
+    "devDependencies": {
+        "prettier": "^3.1.0"
+    },
+    "peerDependencies": {
+        "prettier": "^3.1.0"
+    }
+}

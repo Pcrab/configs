@@ -1,0 +1,32 @@
+{
+    "name": "@pcrab/configs-commitlint",
+    "version": "0.1.0",
+    "publishConfig": {
+        "access": "public"
+    },
+    "keywords": [
+        "commitlint",
+        "configs"
+    ],
+    "description": "Shared commitlint config",
+    "author": {
+        "email": "pcrab@pcrab.xyz",
+        "name": "Pcrab",
+        "url": "https://github.com/Pcrab"
+    },
+    "license": "MIT",
+    "repository": {
+        "url": "https://github.com/Pcrab/configs",
+        "type": "git",
+        "directory": "packages/commitlint"
+    },
+    "homepage": "https://github.com/Pcrab/configs/packages/commitlint#readme",
+    "bugs": "https://github.com/Pcrab/configs/issues",
+    "main": "index.js",
+    "dependencies": {
+        "@commitlint/config-conventional": "^18.4.2"
+    },
+    "peerDependencies": {
+        "@commitlint/cli": "^18.4.2"
+    }
+}
