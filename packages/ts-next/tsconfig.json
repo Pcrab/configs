@@ -1,0 +1,4 @@
+{
+    "extends": "@pcrab/configs-ts",
+    "exclude": ["node_modules"]
+}

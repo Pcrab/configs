@@ -1,0 +1,6 @@
+{
+    "extends": "@pcrab/configs-ts",
+    "compilerOptions": {
+        "lib": ["ESNext", "DOM", "DOM.Iterable"]
+    }
+}
