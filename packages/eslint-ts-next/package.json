@@ -1,6 +1,6 @@
 {
     "name": "@pcrab/configs-eslint-ts-next",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publishConfig": {
         "access": "public"
     },
@@ -26,7 +26,7 @@
     "bugs": "https://github.com/Pcrab/configs/issues",
     "main": "index.cjs",
     "dependencies": {
-        "@pcrab/configs-eslint-ts": "0.1.0",
+        "@pcrab/configs-eslint-ts": "0.1.1",
         "@typescript-eslint/eslint-plugin": "^6.11.0",
         "@typescript-eslint/parser": "^6.11.0",
         "eslint-config-next": "^14.0.3",
