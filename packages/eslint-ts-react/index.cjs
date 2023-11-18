@@ -14,7 +14,7 @@ module.exports = {
                 "plugin:react/recommended",
                 "plugin:react-hooks/recommended",
             ],
-            rules: [...baseEslintConfig.rules],
+            rules: { ...baseEslintConfig.rules },
             env: {
                 ...baseEslintConfig.env,
                 browser: true,

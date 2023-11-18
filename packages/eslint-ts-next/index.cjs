@@ -9,7 +9,7 @@ module.exports = {
             parser: baseEslintConfig.parser,
             plugins: [...baseEslintConfig.plugins],
             extends: [...baseEslintConfig.extends, "next", "next/core-web-vitals"],
-            rules: [...baseEslintConfig.rules],
+            rules: { ...baseEslintConfig.rules },
             env: {
                 ...baseEslintConfig.env,
                 browser: true,
