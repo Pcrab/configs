@@ -27,8 +27,8 @@
     "main": "index.cjs",
     "dependencies": {
         "@pcrab/configs-eslint-ts": "0.1.1",
-        "@typescript-eslint/eslint-plugin": "^6.11.0",
-        "@typescript-eslint/parser": "^6.11.0",
+        "@typescript-eslint/eslint-plugin": "^6.12.0",
+        "@typescript-eslint/parser": "^6.12.0",
         "eslint-config-prettier": "^9.0.0",
         "eslint-plugin-jest": "^27.6.0",
         "eslint-plugin-prettier": "^5.0.1",
