@@ -33,7 +33,7 @@
         "@pcrab/configs-commitlint": "0.1.1",
         "@pcrab/configs-eslint-ts": "0.1.2",
         "@pcrab/configs-prettier": "0.1.0",
-        "@pcrab/configs-syncpack": "0.1.0",
+        "@pcrab/configs-syncpack": "0.1.1",
         "@types/node": "^20.10.0",
         "eslint": "^8.54.0",
         "husky": "^8.0.3",
